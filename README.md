@@ -11,7 +11,7 @@ This app is built on seven frameworks that are shown below.
 
 ### Live Demonstration
 
-The-Weirdos is live here [Project](https://the-weirdos-two.vercel.app/)
+The-Weirdos is live here [Project](https://weirdos.faiyaj.com/)
 
 Here are the screenshots of the The-Weirdos Website
 
