@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  overflow-x: hidden;
+  font-family: "Sora", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
